@@ -16,3 +16,5 @@ Decision to create a pub _(a place for all users)_ is now mainly for:
 But later on, you'll be able to vote for the next features and that way contribute in its development.
 
 &copy; [UltraWideo](https://uw.wtf/). All rights reserved.
+
+</div>
