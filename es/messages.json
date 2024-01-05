@@ -1,0 +1,44 @@
+{
+  "name": {
+    "message": "UltraWideo"
+  },
+  "copyright": {
+    "message": "Todos los derechos reservados."
+  },
+  "description": {
+    "message": "La extensión multi-navegador que manipula la relación de aspecto del video para ajustarse a toda la pantalla."
+  },
+  "activity_label": {
+    "message": "Actividad"
+  },
+  "activity_sr": {
+    "message": "Alternar actividad de la extensión"
+  },
+  "activity_on": {
+    "message": "Encendido"
+  },
+  "activity_off": {
+    "message": "Apagado"
+  },
+  "mode_label": {
+    "message": "Modo"
+  },
+  "mode_sr": {
+    "message": "Iterar a través de los modos"
+  },
+  "mode_normal": {
+    "message": "Normal"
+  },
+  "mode_upscale": {
+    "message": "Mejorar"
+  },
+  "mode_stretch": {
+    "message": "Estirar"
+  },
+  "scale_label": {
+    "message": "Escala"
+  },
+  "scale_sr": {
+    "message": "Ajustar escala"
+  }
+}

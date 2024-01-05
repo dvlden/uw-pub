@@ -1,0 +1,44 @@
+{
+  "name": {
+    "message": "UltraWideo"
+  },
+  "copyright": {
+    "message": "Tutti i diritti riservati."
+  },
+  "description": {
+    "message": "L'estensione multi-browser che manipola il rapporto d'aspetto dei video per adattarli a tutto lo schermo."
+  },
+  "activity_label": {
+    "message": "Attività"
+  },
+  "activity_sr": {
+    "message": "Attiva/Disattiva attività estensione"
+  },
+  "activity_on": {
+    "message": "Acceso"
+  },
+  "activity_off": {
+    "message": "Spento"
+  },
+  "mode_label": {
+    "message": "Modalità"
+  },
+  "mode_sr": {
+    "message": "Iterare attraverso le modalità"
+  },
+  "mode_normal": {
+    "message": "Normale"
+  },
+  "mode_upscale": {
+    "message": "Migliorato"
+  },
+  "mode_stretch": {
+    "message": "Allungare"
+  },
+  "scale_label": {
+    "message": "Scala"
+  },
+  "scale_sr": {
+    "message": "Regola la scala"
+  }
+}

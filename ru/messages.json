@@ -1,0 +1,44 @@
+{
+  "name": {
+    "message": "UltraWideo"
+  },
+  "copyright": {
+    "message": "Все права защищены."
+  },
+  "description": {
+    "message": "Расширение для кросс-браузера, которое меняет соотношение сторон видео, чтобы заполнить весь экран."
+  },
+  "activity_label": {
+    "message": "Активность"
+  },
+  "activity_sr": {
+    "message": "Включить/выключить активность расширения"
+  },
+  "activity_on": {
+    "message": "Включено"
+  },
+  "activity_off": {
+    "message": "Выключено"
+  },
+  "mode_label": {
+    "message": "Режим"
+  },
+  "mode_sr": {
+    "message": "Итерироваться через режимы"
+  },
+  "mode_normal": {
+    "message": "Обычный"
+  },
+  "mode_upscale": {
+    "message": "Улучшенный"
+  },
+  "mode_stretch": {
+    "message": "Растягивание"
+  },
+  "scale_label": {
+    "message": "Масштабирование"
+  },
+  "scale_sr": {
+    "message": "Настроить масштабирование"
+  }
+}

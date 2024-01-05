@@ -1,0 +1,44 @@
+{
+  "name": {
+    "message": "UltraWideo"
+  },
+  "copyright": {
+    "message": "版权所有."
+  },
+  "description": {
+    "message": "跨浏览器扩展，可以调整视频的宽高比以适应整个屏幕。"
+  },
+  "activity_label": {
+    "message": "活动"
+  },
+  "activity_sr": {
+    "message": "切换扩展活动"
+  },
+  "activity_on": {
+    "message": "打开"
+  },
+  "activity_off": {
+    "message": "关闭"
+  },
+  "mode_label": {
+    "message": "模式"
+  },
+  "mode_sr": {
+    "message": "遍历模式"
+  },
+  "mode_normal": {
+    "message": "正常"
+  },
+  "mode_upscale": {
+    "message": "放大"
+  },
+  "mode_stretch": {
+    "message": "拉伸"
+  },
+  "scale_label": {
+    "message": "缩放"
+  },
+  "scale_sr": {
+    "message": "调整缩放"
+  }
+}

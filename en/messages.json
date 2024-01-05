@@ -1,0 +1,44 @@
+{
+  "name": {
+    "message": "UltraWideo"
+  },
+  "copyright": {
+    "message": "All rights reserved."
+  },
+  "description": {
+    "message": "The cross-browser extension that manipulates video aspect ratio to fit your entire screen."
+  },
+  "activity_label": {
+    "message": "Activity"
+  },
+  "activity_sr": {
+    "message": "Toggle extension activity"
+  },
+  "activity_on": {
+    "message": "On"
+  },
+  "activity_off": {
+    "message": "Off"
+  },
+  "mode_label": {
+    "message": "Mode"
+  },
+  "mode_sr": {
+    "message": "Iterate through modes"
+  },
+  "mode_normal": {
+    "message": "Normal"
+  },
+  "mode_upscale": {
+    "message": "Upscale"
+  },
+  "mode_stretch": {
+    "message": "Stretch"
+  },
+  "scale_label": {
+    "message": "Scale"
+  },
+  "scale_sr": {
+    "message": "Adjust scaling"
+  }
+}

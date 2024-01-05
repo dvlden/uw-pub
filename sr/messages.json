@@ -1,0 +1,44 @@
+{
+  "name": {
+    "message": "UltraWideo"
+  },
+  "copyright": {
+    "message": "Сва права задржана."
+  },
+  "description": {
+    "message": "Претраживачки додатак који манипулише пропорцијама видео записа како би се прилагодио целом екрану."
+  },
+  "activity_label": {
+    "message": "Активност"
+  },
+  "activity_sr": {
+    "message": "Преклопи активност додатка"
+  },
+  "activity_on": {
+    "message": "Укључено"
+  },
+  "activity_off": {
+    "message": "Искључено"
+  },
+  "mode_label": {
+    "message": "Режим"
+  },
+  "mode_sr": {
+    "message": "Итерирај кроз режиме"
+  },
+  "mode_normal": {
+    "message": "Нормалан"
+  },
+  "mode_upscale": {
+    "message": "Увећај"
+  },
+  "mode_stretch": {
+    "message": "Рашири"
+  },
+  "scale_label": {
+    "message": "Скала"
+  },
+  "scale_sr": {
+    "message": "Подеси скалирање"
+  }
+}

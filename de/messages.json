@@ -1,0 +1,44 @@
+{
+  "name": {
+    "message": "UltraWideo"
+  },
+  "copyright": {
+    "message": "Alle Rechte vorbehalten."
+  },
+  "description": {
+    "message": "Die browserübergreifende Erweiterung, die das Seitenverhältnis von Videos so verändert, dass sie den gesamten Bildschirm ausfüllen."
+  },
+  "activity_label": {
+    "message": "Erweiterung aktiv"
+  },
+  "activity_sr": {
+    "message": "Schalte Erweiterung an/aus"
+  },
+  "activity_on": {
+    "message": "An"
+  },
+  "activity_off": {
+    "message": "Aus"
+  },
+  "mode_label": {
+    "message": "Modus"
+  },
+  "mode_sr": {
+    "message": "Wechsel durch die Modi"
+  },
+  "mode_normal": {
+    "message": "Normal"
+  },
+  "mode_upscale": {
+    "message": "Hochskalieren"
+  },
+  "mode_stretch": {
+    "message": "Strecken"
+  },
+  "scale_label": {
+    "message": "Skalierung"
+  },
+  "scale_sr": {
+    "message": "Passe Skalierung an"
+  }
+}
